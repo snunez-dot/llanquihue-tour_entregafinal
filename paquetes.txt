@@ -1,0 +1,5 @@
+1001;Ruta de los Volcanes;Puerto Varas;2;Volcán Osorno y Saltos del Petrohué;Bus;08:00;85000;Carlos Pérez;Turismo Patagonia
+1002;Sabores del Sur;Frutillar;1;Museo y gastronomía local;Minibus;09:30;55000;María González;Austral Tours
+1003;Navegación Lago Todos los Santos;Peulla;1;Lago y senderos;Lancha;10:00;72000;Javier Soto;Lagos Travel
+1004;Ruta Cultural Chiloé;Castro;3;Palafitos e iglesias;Bus;07:30;145000;Ana Muñoz;Chiloé Experience
+1005;Aventura Cochamó;Cochamó;2;Trekking y escalada;Van;06:30;98000;Felipe Rojas;Andes Outdoor

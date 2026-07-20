@@ -1,0 +1,5 @@
+1;Martina Figueroa;21345678-9;Los Carrera;125;Concepcion;Biobio
+2;Matias Rojas;19876543-2;O'Higgins;320;Puerto Montt;Los Lagos
+3;Camila Fuentes;17654321-K;Prat;87;Osorno;Los Lagos
+4;Benjamin Soto;20567891-4;Freire;215;Valdivia;Los Rios
+5;Valentina Muñoz;22334455-6;Anibal Pinto;450;Puerto Varas;Los Lagos
